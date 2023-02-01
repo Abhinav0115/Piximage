@@ -24,7 +24,7 @@ const Footer = () => {
                     />
                 </a>
             </div>
-            <span className="text-warning fw-bold">&#169; PEXimage</span> Image
+            <span className="text-warning fw-bold">&#169; PiXimage</span> Image
             Search App build using{" "}
             <span className="text-warning ">PEXELS API</span>
         </Container>
