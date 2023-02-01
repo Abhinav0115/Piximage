@@ -1,0 +1,54 @@
+#root {
+    background-image: url("https://w7.pngwing.com/pngs/551/298/png-transparent-full-moon-and-starry-night-atmosphere-sky-universe-outer-space-blue-blue-sky-background-texture-blue-other.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 330px;
+    height: 400px;
+    object-fit: cover;
+    border: 1px solid #fff;
+}
+
+/* Header and Footer */
+.HeadFootBG {
+    min-width: 100%;
+    background-image: url("https://www.cnet.com/a/img/resize/90bc98c7d6017cab30ad4f104235a0adb9c80364/hub/2022/01/14/a9f69e23-6e03-437a-95a2-3493834fa12b/gettyimages-1158013906.jpg?auto=webp&fit=crop&height=675&width=1200");
+    background-position: top;
+}
+
+/* Header */
+
+/* Logo */
+.App-logo {
+    height: 45px;
+    width: 40px;
+    pointer-events: none;
+    border: none;
+}
+
+.logo {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* hello */
+
+.UncompletePage {
+    min-height: 85vh;
+}
+
+/* Footer */
+.FooterLogo {
+    height: 30px;
+    width: 30px;
+}
+
